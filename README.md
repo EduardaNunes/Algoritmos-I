@@ -306,6 +306,48 @@ For example:
 | 0 | Sequencia: <br> 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19 |
 | -5 <br> 11 <br> 22 <br> 7 | Sequencia: <br> 0  1  2  3  4  5  6  8  9  10  11  12  13  14  15  16  17  18  19 |
 
+# Aula 7 - Strings
+
+## Exercicio 1
+
+1 - Fazer uma função para imprimir uma string recebida como parâmetro sem os espaços em branco. Para isso, a string não deve ser modificada.
+
+2 - Fazer uma função principal que leia uma string de até 50 caracteres e chame a função do item anterior.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| Exemplo Um | ExemploUm |
+| Algoritmos | Algoritmos |
+
+## Exercicio 2
+
+Júlio César usava um sistema de criptografia, agora conhecido como Cifra de César, que trocava cada letra pelo equivalente em duas posições adiante no alfabeto (por exemplo, 'A' vira 'C', 'R' vira 'T', etc.). Ao final do alfabeto nós voltamos para o começo, isto é 'Y' vira 'A'. Nós podemos, é claro, tentar trocar as letras com quaisquer número de posições.
+
+Entrada: A entrada contém vários casos de teste. A primeira linha de entrada contém um inteiro N que indica a quantidade de casos de teste. Cada caso de teste é composto por duas linhas. A primeira linha contém uma string com até 50 caracteres maiúsculos ('A'-'Z'), que é a sentença que se deseja codificar através desta Cifra de César modificada. A segunda linha contém um número que varia de 0 a 25 e que representa quantas posições cada letra deverá ser deslocada para a direita.
+
+Saída: Para cada caso de teste de entrada, imprima uma linha de saída com o texto codificado (aplicando as regras de criptografia) conforme as regras acima e o exemplo abaixo.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| 1 <br> HELLOWORLD <br> 4 | LIPPSASVPH |
+
+## Exercicio 3
+
+Elabore uma função que receba uma string e um caractere e remova toda ocorrência do caractere na string.
+
+Elabore um programa principal que leia uma string (máximo de 60 caracteres), chame a função anterior e imprima a string modificada.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| katon goukakyuu no jutsu <br> u | katon gokaky no jts |
+| abcedacdea <br> a | bcedcde |
+
 # Aula 8 - Matrizes
 
 ## Exercício 1
