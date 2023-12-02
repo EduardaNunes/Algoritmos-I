@@ -267,6 +267,42 @@ For example:
 /////////////////////////////////////
 
 
+## Exercicio 3
+
+Dado um inteiro N, siga os passos abaixo:
+
+Escreva uma função que receba como parâmetro uma matriz quadrada de inteiros A e seu tamanho. Troque o primeiro valor ímpar da primeira linha de A com o primeiro elemento par da diagonal secundária de A. Por fim, se houve troca, imprima A. Caso contrário, imprima "Nenhuma troca realizada".
+
+Escreva uma função principal (main) que declare e leia o tamanho de A e os elementos de A. Chame a função anterior.
+
+OBS: Considere que o tamanho máximo da matriz será 5.
+
+For example:
+
+Input	Result
+//////////////////////////////////////////////////////
+///  5               ///  Nenhuma troca realizada  ///
+///  74 44 24 86 74  ///                           ///
+///  8 24 55 48 27   ///                           ///
+///  37 57 59 36 15  ///                           ///
+///  43 55 29 51 13  ///                           ///
+///  62 3 76 47 35   ///                           ///
+//////////////////////////////////////////////////////
+///  3               ///  2 2 3                    ///
+///  1 2 3           ///  1 1 3                    ///
+///  1 2 3           ///  1 2 3                    ///
+///  1 2 3           ///                           ///
+//////////////////////////////////////////////////////
+///  4               ///  2 4 4 7                  ///
+///  2 4 5 7         ///  2 3 5 5                  ///
+///  2 3 4 5         ///  7 8 4 5                  ///
+///  7 8 4 5         ///  3 5 1 8                  ///
+///  3 5 1 8         ///                           ///
+//////////////////////////////////////////////////////
+
+
+
+
 
 
 
