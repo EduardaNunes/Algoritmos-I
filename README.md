@@ -18,14 +18,13 @@ Seu programa deve imprimir uma única linha, contendo a diferença entre a press
 
 For example:
 
-    Input	                    Result
-///////////////////////////////////////////////////////////////
-///  30  /// Diferenca entre a pressao desejada e lida: 12  ///
-///  18  ///                                                ///
-///////////////////////////////////////////////////////////////
-///  27  /// Diferenca entre a pressao desejada e lida: -3  ///
-///  30  ///                                                ///
-///////////////////////////////////////////////////////////////
+| Input | Result |
+|-------- | -----------------------------------------|
+| 30 | Diferenca entre a pressao desejada e lida: 12 |
+| 18 |                                               |
+| 27 | Diferenca entre a pressao desejada e lida: -3 |
+| 30 |                                               |
+
 
 ## Exercício 2
 
