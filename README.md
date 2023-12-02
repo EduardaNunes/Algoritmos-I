@@ -230,6 +230,82 @@ For example:
 | 3 <br> -2 <br> 9 <br> 2 <br> 7 <br> -5 <br> 8 <br> 5 <br> 2 <br> 3 | O 3o elemento é o maior. <br> O 6o elemento é o menor. |
 | 1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9 <br> 10 | O 10o elemento é o maior. <br> O 1o elemento é o menor. |
 
+# Aula 6 - Vetores Numéricos
+
+## Exercicio 1
+
+Faça um programa que leia do teclado um vetor de inteiros de 10 elementos. A seguir imprima somente os valores em índices pares do vetor.
+For example:
+
+| Input | Result |
+| --- | --- |
+| 0 <br> 1 <br> -4 <br> 100 <br> 9 <br> 0 <br> 9 <br> 13 <br> 7 <br> 9 | 0 <br> -4 <br> 9 <br> 9 <br> 7 | 
+| -1 <br> -2 <br> -3 <br> -4 <br> -5 <br> -6 <br> -7 <br> -8 <br> -9 <br> -10 | -1 <br> -3 <br> -5 <br> -7 <br> -9 |
+
+## Exercicio 2
+
+Faça um programa que leia do teclado um vetor de inteiros de 7 elementos. A seguir substitua todos os números maiores que 5 pelo valor -5. Por fim, imprima o vetor modificado.
+For example:
+
+| Input	| Result |
+| --- | --- |
+| 0 <br> 1 <br> -4 <br> 100 <br> 9 <br> 0 <br> 9 | 0 <br> 1 <br> -4 <br> -5 <br> -5 <br> 0 <br> -5 | 
+| -1 <br> -2 <br> -3 <br> -4 <br> -5 <br> -6 <br> -7 | -1 <br> -2 <br> -3 <br> -4 <br> -5 <br> -6 <br> -7 |
+
+## Exercicio 3
+
+Faça um programa que leia do teclado um vetor de reais de 12 elementos. A seguir, calcule e imprima a média dos valores no intervalo fechado [-3,3] do vetor.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| -1.4 <br> 3.6 <br> 2.9 <br> 1.6 <br> 10.2 <br> -7.9 <br> 0.0 <br> -5.6 <br> 3.0 <br> 13.8 <br> -0.1 <br> 6.7 | Media dos elementos no intervalo: 1.0 |
+| -1.4 <br> 3.6 <br> 8.9 <br> -12.6 <br> 10.2 <br> -1.9 <br> 0.0 <br> -3.0 <br> -8.8 <br> 13.8 <br> 0.1 <br> 6.7 | Media dos elementos no intervalo: -1.2 |
+
+## Exercicio 4
+
+Escreva uma função que receba um vetor de valores reais e seu tamanho e retorne quantos destes valores são negativos. Além disso, crie uma função principal (main) que leia um tamanho para o vetor, preencha o vetor e imprima utilizando a função.
+
+OBS: O tamanho máximo do vetor será de 20 elementos.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| 5 <br> 12.2 <br> 98.2 <br> -12.1 <br> 23.0 <br> -12.1 | 2 |
+| 10 <br> 10.00 <br> 12.00 <br> -10.00 <br> 1.00 <br> 25.00 <br> 92.00 <br> -110.00 <br> 9.00 <br> 15.00 <br> -7.00 | 3 |
+
+## Exercicio 5
+
+Escreva uma função que receba um vetor de valores reais e um número inteiro indicando a quantidade de valores. A função deve ler valores do teclado para preencher todo o vetor, mas o valor 0 e valores negativos devem ser ignorados, bem como valores a mais que a quantidade solicitada.
+
+Faça um programa que declare um vetor de até 20 elementos e leia a quantidade de valores positivos a serem lidos. Utilize a função criada para preencher o vetor e imprima o vetor resultante.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| 4 -1 2 3 1 -3 5 | 2.00 3.00 1.00 5.00 |
+| 3 -1.1 0 3.3 22 4 5 | 3.30 22.00 4.00 |
+
+## Exercicio 6
+
+Faça um programa que apague um elemento no meio de um vetor, de forma que os elementos posteriores a posição deletada sejam deslocados para a esquerda. Assim:
+
+(1) crie um vetor de 20 posições;
+(2) preencha cada posição do vetor com seu índice;
+(3) solicite que o usuário indique uma posição x entre 0 e 10. A leitura deve ser repetida até que o usuário digite um valor válido;
+(4) desloque os elementos das posições de x+1 a 19 para a esquerda;
+(5) Imprima os elementos do vetor de 0 a 19.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| 0 | Sequencia: <br> 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19 |
+| -5 <br> 11 <br> 22 <br> 7 | Sequencia: <br> 0  1  2  3  4  5  6  8  9  10  11  12  13  14  15  16  17  18  19 |
+
 # Aula 8 - Matrizes
 
 ## Exercício 1
