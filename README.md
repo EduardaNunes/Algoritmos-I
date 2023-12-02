@@ -193,7 +193,7 @@ Elabore um programa principal que leia uma matriz de inteiros de tamanho 20x20, 
 
 For example:
 
-Input	Result
+                            Input	                                                        Result
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///  88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88                 ///  Linha: 8 Coluna: 9  ///
 ///  88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88                 ///                      ///
@@ -239,5 +239,35 @@ Input	Result
 ///  80 -64 -90 -20 89 -79 50 7 -66 88 47 -66 -44 38 48 59 38 58 10 -42          ///                      ///
 ///  100                                                                         ///                      ///
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+## Exercicio 2
+
+Para resolver este exercício, siga os passos abaixo:
+
+* Escreva uma função que receba por parâmetro uma matriz de três linhas e quatro colunas de números inteiros e a imprima.
+* Escreva uma função para calcular a multiplicação de uma matriz de números inteiros com três linhas e quatro colunas por um escalar inteiro, recebidos por parâmetro. O resultado deve ser armazenado na própria matriz.
+* Escreva uma função principal (main) que leia do teclado uma matriz de dimensão 3x4 e um escalar e chame as funções desenvolvidas nos itens anteriores.
+
+For example:
+
+      Input	          Result
+/////////////////////////////////////
+///  2 2 2 2  ///  Escalar: 3     ///
+///  2 2 2 2  ///  Matriz Final:  ///
+///  2 2 2 2  ///  6 6 6 6        ///
+///  3        ///  6 6 6 6        ///
+///           ///  6 6 6 6        ///
+/////////////////////////////////////
+///  1 2 3 4  ///  Escalar: 2     ///
+///  2 1 4 1  ///  Matriz Final:  ///
+///  0 1 3 2  ///  2 4 6 8        ///
+///  2        ///  4 2 8 2        ///
+///           ///  0 2 6 4        ///
+/////////////////////////////////////
+
+
+
+
 
 
