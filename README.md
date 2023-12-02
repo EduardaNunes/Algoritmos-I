@@ -182,6 +182,87 @@ Input	Result
 ///  (  ///  Outro simbolo valido em C.   ///
 /////////////////////////////////////////////
 
+# Aula 5 - Repetições
+
+## Exercicio 1
+
+Desenvolva  uma função que receba como parâmetro um número inteiro N. A função deve ler "n" valores do teclado e retornar quantos destes valores são negativos. Crie também uma função principal (main) que leia um número inteiro do teclado, chame a função desenvolvida e imprima o resultado.
+
+For example:
+
+| Input | Result |
+| --- | --- |
+| 5 <br> -4.2 <br> 5 <br> 10.7 <br> -10.5 <br> 7.1 | Total de números negativos: 2 |
+| 3 <br> 10 <br> 5 <br> 25 | Total de números negativos: 0 |
+
+## Exercicio 2
+
+Para resolver este exercício, siga os passos abaixo:
+
+Escreva uma função que receba os valores inteiros n1, n2 e x como parâmetro, e imprima os múltiplos de x que pertencem ao intervalo fechado entre n1 e n2, em ordem crescente.
+
+Escreva uma função principal (main) que ​leia​ os valores inteiros n1, n2 e x. Por fim, chame a função desenvolvida no item anterior.
+
+Dica: intervalo fechado inclui-se os extremos.
+
+For example:
+
+| Input | Result |
+| --- | --- |
+| -10 10 5 | -10 -5 0 5 10 |
+| 1 30 7 | 7 14 21 28 |
+| 1 100 13 | 13 26 39 52 65 78 91 |
+
+## Exercicio 3
+
+Escreva uma função que receba como parâmetros as coordenadas cartesianas (X, Y) e imprima em qual quadrante este par ordenado está.
+
+Escreva uma função principal (main) que leia as coordenadas cartesianas de uma sequência de pontos e chame a função anterior para cada um deles. O programa deverá realizar a leitura até que seja digitado o valor 0 (zero) em pelo menos uma das coordenadas do par (ex: (0,2), (3,0), (0,0)).
+For example:
+
+| Input| Result |
+| --- | --- |
+| 2 2 <br> 3 -2 <br> -8 -1 <br> -7 1 <br> 0 2 | Primeiro <br> Quarto <br> Terceiro <br> Segundo |
+| -4 -7 <br> -7 -7 <br> -1 -2 <br> -2 0 | Terceiro <br> Terceiro <br> Terceiro |
+
+## Exercicio 4
+
+Faça uma função que recebe um valor N inteiro e que, se N for positivo, a função deve imprimir a mensagem , "Fatorial calculado:" e retornar o fatorial de N (N!). 
+
+Se não for possível calcular o fatorial, a função deve imprimir mensagem, "Fatorial não pode ser calculado:" e retornar o valor -1.
+
+Faça um programa principal que leia um valor inteiro, chame a função anterior e imprima o valor retornado.
+
+For example:
+
+| Input | Result |
+| --- | --- |
+| 5 | Fatorial calculado: 120 |
+| -10 | Fatorial não pode ser calculado: -1 |
+
+## Exercicio 5
+
+Escreva uma função que leia 6 números reais e imprima quantos são positivos e a média dos valores positivos. Caso nenhum valor positivo seja lido, imprima a mensagem "Nao foram informados numeros positivos".
+
+Escreva uma função principal (main) que chame a função anterior.
+
+For example:
+
+| Input | Result |
+| --- | --- |
+| -2 <br> -1 <br> 0 <br> 1 <br> 2 <br> 3 | 3 numeros sao positivos e a media e 2.00 |
+| -1 <br> -10.5 <br> -100.9 <br> -1000 <br> -10000 <br> -100000 | Nao foram informados numeros positivos |
+
+## Exercicio 6
+
+Escreva um programa que leia dez valores do teclado (usando a mesma variável) e imprima as posições do maior e do menor na sequência.
+
+For example:
+
+| Input | Result |
+| 3 <br> -2 <br> 9 <br> 2 <br> 7 <br> -5 <br> 8 <br> 5 <br> 2 <br> 3 | O 3o elemento é o maior. <br> O 6o elemento é o menor. |
+| 1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9 <br> 10 | O 10o elemento é o maior. <br> O 1o elemento é o menor. |
+
 # Aula 8 - Matrizes
 
 ## Exercício 1
