@@ -237,6 +237,7 @@ Escreva um programa que leia dez valores do teclado (usando a mesma variável) e
 For example:
 
 | Input | Result |
+| --- | --- |
 | 3 <br> -2 <br> 9 <br> 2 <br> 7 <br> -5 <br> 8 <br> 5 <br> 2 <br> 3 | O 3o elemento é o maior. <br> O 6o elemento é o menor. |
 | 1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9 <br> 10 | O 10o elemento é o maior. <br> O 1o elemento é o menor. |
 
