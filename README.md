@@ -1,12 +1,12 @@
 # Navegando
 
-[Aula 2](https://github.com/EduardaNunes/Algoritmos-I#aula-2---variáveis-e-in-out) <br>
-[Aula 3](https://github.com/EduardaNunes/Algoritmos-I#aula-3---funções) <br> 
-[Aula 4](https://github.com/EduardaNunes/Algoritmos-I#aula-4---condicionais) <br> 
-[Aula 5](https://github.com/EduardaNunes/Algoritmos-I#aula-5---repetições) <br> 
-[Aula 6](https://github.com/EduardaNunes/Algoritmos-I#aula-6---vetores-numéricos) <br> 
-[Aula 7](https://github.com/EduardaNunes/Algoritmos-I#aula-7---strings) <br> 
-[Aula 8](https://github.com/EduardaNunes/Algoritmos-I#aula-8---matrizes)
+* Aula 2 - Variáveis e In Out ----------- [[Aula 2]](https://github.com/EduardaNunes/Algoritmos-I#aula-2---variáveis-e-in-out) <br>
+* Aula 3 - Funções --------------------- [[Aula 3]](https://github.com/EduardaNunes/Algoritmos-I#aula-3---funções) <br> 
+* Aula 4 - Condicionais ---------------- [[Aula 4]](https://github.com/EduardaNunes/Algoritmos-I#aula-4---condicionais) <br> 
+* Aula 5 - Repetições ------------------ [[Aula 5]](https://github.com/EduardaNunes/Algoritmos-I#aula-5---repetições) <br> 
+* Aula 6 - Vetores Numéricos --------- [[Aula 6]](https://github.com/EduardaNunes/Algoritmos-I#aula-6---vetores-numéricos) <br> 
+* Aula 7 - Strings ---------------------- [[Aula 7]](https://github.com/EduardaNunes/Algoritmos-I#aula-7---strings) <br> 
+* Aula 8 - Matrizes -------------------- [[Aula 8]](https://github.com/EduardaNunes/Algoritmos-I#aula-8---matrizes)
 
 # Aula 2 - Variáveis e In Out
 
