@@ -395,3 +395,42 @@ For example:
 | 5 <br> 74 44 24 86 74 <br> 8 24 55 48 27 <br> 37 57 59 36 15 <br> 43 55 29 51 13 <br> 62 3 76 47 35 | Nenhuma troca realizada |
 | 3 <br> 1 2 3 <br> 1 2 3 <br> 1 2 3 | 2 2 3 <br> 1 1 3 <br> 1 2 3 |
 | 4 <br> 2 4 5 7 <br> 2 3 4 5 <br> 7 8 4 5 <br> 3 5 1 8 | 2 4 4 7 <br> 2 3 5 5 <br> 7 8 4 5 <br> 3 5 1 8 |
+
+# Aula 9 - Estruturas
+
+## Exercício 1
+
+Defina a estrutura "Medidas" para armazenar o peso a altura de uma pessoa. Faça um programa que leia o peso e a altura de seis pessoas e imprima na tela a média das medidas do grupo.
+
+For example:
+
+| Input | Result |
+| --- | --- |
+|75 1.70 <br> 53 1.56 <br> 80 1.80 <br> 92 1.90 <br> 62 1.67 <br> 50 1.52 | Média Pesos: 68.67 kg <br> Média Alturas: 1.69 m |
+| 110 1.80 <br> 75 1.70 <br> 63 1.59 <br> 73 1.71 <br> 70 1.60 <br> 77 1.85 | Média Pesos: 78.00 kg <br> Média Alturas: 1.71 m |
+
+## Exercício 2
+
+Crie um tipo de dado denominado Vetor que representa uma estrutura chamada
+est_Vetor para representar um vetor de dimensões (coordenadas) x, y e z no espaço tridimensional: V (x, y, z). Desenvolva uma função para calcular e retornar a soma de dois vetores A (xa, ya, za) e B (xb, yb, zb) e uma função para calcular e retornar a multiplicação de A pela coordenada de maior valor de B. Faça um programa principal que leia do usuário as coordenadas dos dois vetores, chame as duas funções citadas e imprima os resultados retornados por elas.
+
+For example:
+
+| Input| Result |
+| --- | --- |
+| 1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 | Soma: <br> x = 5.00 <br> y = 7.00 <br> z = 9.00 <br> Multiplicacao: <br> x = 6.00 <br> y = 12.00 <br> z = 18.00 |
+| 2 <br> 5 <br> 3 <br> 1 <br> 5 <br> 4 | Soma: <br> x = 3.00 <br> y = 10.00 <br> z = 7.00 <br> Multiplicacao: <br> x = 10.00 <br> y = 25.00 <br> z = 15.00 | 
+| -1 <br> -2 <br> -3 <br> 4 <br> 5 <br> 6 | Soma: <br> x = 3.00 <br> y = 3.00 <br> z = 3.00 <br> Multiplicacao: <br> x = -6.00 <br> y = -12.00 <br> z = -18.00 |
+
+## Exercício 3
+
+Defina uma estrutura empregado para armazenar os dados (nome, cargo, data de nascimento, data de admissão e salário) de um colaborador de sua empresa. Defina um vetor de empregados para armazenar todos os colaboradores de sua empresa, considerando que a empresa possua 4 funcionários. A seguir leia as informações dos funcionários e preencha o vetor. Por fim, imprima os dados do funcionário com o maior e menor salário, e a média salarial da empresa.
+
+For example:
+
+| Input	| Result |
+| --- | --- |
+| Lauro Passamani <br> Presidente <br> 12/01/1959 <br> 30/04/1990 <br> 6500 <br> Vinci Barros <br> Vice Presidente <br> 10/02/1958 <br> 02/03/1995 <br> 6000 <br> Carlos Quintans <br> Supervisor <br> 21/10/1980 <br> 12/01/2005 <br> 3000 <br> Marcos Barros <br> Representante Comercial <br> 15/07/1970 <br> 12/11/1999 <br> 2500 | Dados do funcionario com maior salario: <br> Nome: Lauro Passamani <br> Cargo: Presidente <br> Data de nascimento: 12/01/1959 <br> Data de admissao: 30/04/1990 <br> Salario: 6500.00 <br> <br> Dados do funcionario com menor salario: <br> Nome: Marcos Barros <br> Cargo: Representante Comercial <br> Data de nascimento: 15/07/1970 <br> Data de admissao: 12/11/1999 <br> Salario: 2500.00 <br> <br> Media salarial da empresa: <br> Media: 4500.00 |
+| Marcelo Braga <br> CEO <br> 11/11/1980 <br> 07/03/2000 <br> 15000 <br> Samia Barros <br> Engenheira de Qualidade <br> 02/12/1985 <br> 04/10/2005 <br> 10000 <br> Carlos Braga <br> Cientista de Dados <br> 10/10/1980 <br> 12/01/2005 <br> 10000 <br> Marcos Barros <br> Engenheiro de Dados <br> 19/07/1979 <br> 18/09/1999 <br> 12000 | Dados do funcionario com maior salario: <br> Nome: Marcelo Braga <br> Cargo: CEO <br> Data de nascimento: 11/11/1980 <br> Data de admissao: 07/03/2000 <br> Salario: 15000.00 <br> <br> Dados do funcionario com menor salario: <br> Nome: Samia Barros <br> Cargo: Engenheira de Qualidade <br> Data de nascimento: 02/12/1985 <br> Data de admissao: 04/10/2005 <br> Salario: 10000.00 <br> <br> Media salarial da empresa: <br> Media: 11750.00 |
+
+
