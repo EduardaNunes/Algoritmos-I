@@ -1,14 +1,15 @@
-# :white_circle: Navegando
+# Navegando
 
-* Aula 2 - Variáveis e In Out ----------- [[Aula 2]](https://github.com/EduardaNunes/Algoritmos-I#aula-2---variáveis-e-in-out) <br>
-* Aula 3 - Funções --------------------- [[Aula 3]](https://github.com/EduardaNunes/Algoritmos-I#aula-3---funções) <br> 
-* Aula 4 - Condicionais ---------------- [[Aula 4]](https://github.com/EduardaNunes/Algoritmos-I#aula-4---condicionais) <br> 
-* Aula 5 - Repetições ------------------ [[Aula 5]](https://github.com/EduardaNunes/Algoritmos-I#aula-5---repetições) <br> 
-* Aula 6 - Vetores Numéricos --------- [[Aula 6]](https://github.com/EduardaNunes/Algoritmos-I#aula-6---vetores-numéricos) <br> 
-* Aula 7 - Strings ---------------------- [[Aula 7]](https://github.com/EduardaNunes/Algoritmos-I#aula-7---strings) <br> 
-* Aula 8 - Matrizes -------------------- [[Aula 8]](https://github.com/EduardaNunes/Algoritmos-I#aula-8---matrizes)
+* Aula 2 - Variáveis e In Out ----------- [[Aula 2]](#aula-2---variáveis-e-in-out) <br>
+* Aula 3 - Funções --------------------- [[Aula 3]](#aula-3---funções) <br> 
+* Aula 4 - Condicionais ---------------- [[Aula 4]](#aula-4---condicionais) <br> 
+* Aula 5 - Repetições ------------------ [[Aula 5]](#aula-5---repetições) <br> 
+* Aula 6 - Vetores Numéricos --------- [[Aula 6]](#aula-6---vetores-numéricos) <br> 
+* Aula 7 - Strings ---------------------- [[Aula 7]](#aula-7---strings) <br> 
+* Aula 8 - Matrizes -------------------- [[Aula 8]](#aula-8---matrizes) <br>
+* Aula 9 - Estruturas ------------------- [[Aula 9]](#aula-9---estruturas) <br>
 
-# :white_circle: Aula 2 - Variáveis e In Out
+# Aula 2 - Variáveis e In Out
 
 ## >> Exercício 1:
 
@@ -69,7 +70,7 @@ For example:
 | 1.0 7.0 <br> 5.0 9.0 | Distancia: 4.4721 |
 | -2.5 0.4 <br> 12.1 7.3 | Distancia: 16.1484 |
 
-# :white_circle: Aula 3 - Funções
+# Aula 3 - Funções
 
 ## >> Exercício 1
 
@@ -109,7 +110,7 @@ For example:
 | 13579 | Conversão: 3 horas, 46 minutos e 19 segundos. |
 | 72000 | Conversão: 20 horas, 0 minutos e 0 segundos. |
 
-# :white_circle: Aula 4 - Condicionais
+# Aula 4 - Condicionais
 
 ## >> Exercício 1
 
@@ -159,7 +160,7 @@ For example:
 | < <br> $ <br> ) | Operador relacional. <br> Caractere nao identificado. <br> Outro simbolo valido em C. |
 | > <br> * <br> ( | Operador relacional. <br> Operador matematico. <br> Outro simbolo valido em C. |
 
-# :white_circle: Aula 5 - Repetições
+# Aula 5 - Repetições
 
 ## >> Exercicio 1
 
@@ -241,7 +242,7 @@ For example:
 | 3 <br> -2 <br> 9 <br> 2 <br> 7 <br> -5 <br> 8 <br> 5 <br> 2 <br> 3 | O 3o elemento é o maior. <br> O 6o elemento é o menor. |
 | 1 <br> 2 <br> 3 <br> 4 <br> 5 <br> 6 <br> 7 <br> 8 <br> 9 <br> 10 | O 10o elemento é o maior. <br> O 1o elemento é o menor. |
 
-# :white_circle: Aula 6 - Vetores Numéricos
+# Aula 6 - Vetores Numéricos
 
 ## >> Exercicio 1
 
@@ -317,7 +318,7 @@ For example:
 | 0 | Sequencia: <br> 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19 |
 | -5 <br> 11 <br> 22 <br> 7 | Sequencia: <br> 0  1  2  3  4  5  6  8  9  10  11  12  13  14  15  16  17  18  19 |
 
-# :white_circle: Aula 7 - Strings
+# Aula 7 - Strings
 
 ## >> Exercicio 1
 
@@ -359,7 +360,7 @@ For example:
 | katon goukakyuu no jutsu <br> u | katon gokaky no jts |
 | abcedacdea <br> a | bcedcde |
 
-# :white_circle: Aula 8 - Matrizes
+# Aula 8 - Matrizes
 
 ## >> Exercício 1
 
