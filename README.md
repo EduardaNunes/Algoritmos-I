@@ -445,3 +445,19 @@ For example:
 | Marcelo Braga <br> CEO <br> 11/11/1980 <br> 07/03/2000 <br> 15000 <br> Samia Barros <br> Engenheira de Qualidade <br> 02/12/1985 <br> 04/10/2005 <br> 10000 <br> Carlos Braga <br> Cientista de Dados <br> 10/10/1980 <br> 12/01/2005 <br> 10000 <br> Marcos Barros <br> Engenheiro de Dados <br> 19/07/1979 <br> 18/09/1999 <br> 12000 | Dados do funcionario com maior salario: <br> Nome: Marcelo Braga <br> Cargo: CEO <br> Data de nascimento: 11/11/1980 <br> Data de admissao: 07/03/2000 <br> Salario: 15000.00 <br> <br> Dados do funcionario com menor salario: <br> Nome: Samia Barros <br> Cargo: Engenheira de Qualidade <br> Data de nascimento: 02/12/1985 <br> Data de admissao: 04/10/2005 <br> Salario: 10000.00 <br> <br> Media salarial da empresa: <br> Media: 11750.00 |
 
 
+## Exercício 4
+
+Elabore um algoritmo para calcular a maior distância entre dois pontos dentro de um conjunto de N pontos tal que N=10. Para isso:
+  
+Crie a estrutura Ponto para armazenar as duas coordenadas reais x e y;
+ 
+Crie uma função que receba duas estruturas representando dois pontos e retorne a distância entre eles, dada pela fórmula 
+$\sqrt{(x2−x1)^2 +(y2−y1)^2}$
+ 
+Crie uma função principal que crie um vetor de 10 pontos, leia os dados de cada ponto e imprima a maior distância entre os pontos desse conjunto com duas casas decimais.
+
+| input | Result |
+| --- | --- |
+| 0 0 <br> 0 1 <br> 0 2 <br> 0 3 <br> 0 4 <br> 0 5 <br> 0 6 <br> 0 7 <br> 0 8 <br> 0 9 | 9.00 |
+| 0 0 <br> 2 3 <br> 4 6 <br> 6 9 <br> 12 8 <br> 15 10 <br> 18 12 <br> 21 21 <br> 24 24 <br> 27 27 | 38.18 |
+
